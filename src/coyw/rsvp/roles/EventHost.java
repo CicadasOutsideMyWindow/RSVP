@@ -4,8 +4,6 @@ public class EventHost extends Member {
 	
 	public EventHost(String id) {
 		super(id);
-		setHost(true);
-		
 	}
 	
 	public void arrangeTeamsForEvent(String eventId) {
